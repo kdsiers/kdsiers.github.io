@@ -80,6 +80,10 @@
 	padding:50px 10px 150px 10px;
 }
 
+	.top-logo{
+		width: 40px;	
+	}
+
 
 @media(max-width:950px) {
     #slider {    
@@ -99,6 +103,7 @@
 	.bottom{	
 		display: none !important; 
 	}
+	
 }
 
 @media(max-width:400px) {
